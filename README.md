@@ -1,2 +1,1 @@
-# STAYLss
-> life is not daijoubu 
+> Life is not Daijoubu 
