@@ -1,2 +1,2 @@
-# STAY 🤘🏼
+# STAYLss
 > life is not daijoubu 
