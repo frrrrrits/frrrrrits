@@ -1,2 +1,2 @@
-# STILL STAY HERE 
-> A curated list of awesome READMEs
+# STAY 🤘🏼
+> life is not daijoubu 
