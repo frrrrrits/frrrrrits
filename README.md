@@ -1,5 +1,2 @@
-### Stil stay here
-
-<!--
-**frrrrrits/frrrrrits**
--->
+# STILL STAY HERE 
+> A curated list of awesome READMEs
