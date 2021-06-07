@@ -1,1 +1,1 @@
-> Life is not Daijoubu 
+> life could be dream
