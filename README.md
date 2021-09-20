@@ -1,7 +1,8 @@
 <p align="center">
-  <samp>Hello world.</samp>
+  <samp>Hello World.</samp>
   <br>
   <br>
+  <samp>I like reading comic</samp>
 </p>
 
 ---
