@@ -1,3 +1,3 @@
 <img src="/banner.png"/>
 
-I like reading manga/manhwa, My favourite game is pj sekai
+I like reading manga/manhwa, Also i like playing rhythm game my favourite one *pj sekai*
