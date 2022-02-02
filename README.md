@@ -1,6 +1,3 @@
-<p align="center">
-  <samp>Hello World.</samp>
-  <br>
-  <br>
-  <samp>I like reading manga, my favourite game is rhythm</samp>
-</p>
+<img src="/banner.png"/>
+
+I like reading manga/manhwa, My favourite game is pj sekai
