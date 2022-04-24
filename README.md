@@ -1,3 +1,3 @@
 <img src="/banner.png"/>
 
-I love reading Manga & Manhwa > Comic, my favourite game Rhythm.
+I love reading Manga & Manhwa - Comic, My favourite game Rhythm.
